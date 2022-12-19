@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: brown;
+=======
+    color: red;
+>>>>>>> cabecera
     text-align: center;
     font-family: "Verdana";
     font-size: 16px;
